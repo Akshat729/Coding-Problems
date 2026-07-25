@@ -24,11 +24,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/Akshat729/Coding-Problems/tree/master/1331-rank-transform-of-an-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/Akshat729/Coding-Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Akshat729/Coding-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Akshat729/Coding-Problems/tree/master/0066-plus-one) |
+| [3536-maximum-product-of-two-digits](https://github.com/Akshat729/Coding-Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Akshat729/Coding-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Akshat729/Coding-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
