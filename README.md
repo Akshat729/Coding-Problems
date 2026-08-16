@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Akshat729/Coding-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/Akshat729/Coding-Problems/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Akshat729/Coding-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2029-stone-game-ix](https://github.com/Akshat729/Coding-Problems/tree/master/2029-stone-game-ix) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Akshat729/Coding-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Akshat729/Coding-Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Akshat729/Coding-Problems/tree/master/3731-find-missing-elements) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Akshat729/Coding-Problems/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Akshat729/Coding-Problems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Akshat729/Coding-Problems/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/Akshat729/Coding-Problems/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Akshat729/Coding-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Akshat729/Coding-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Akshat729/Coding-Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Akshat729/Coding-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2029-stone-game-ix](https://github.com/Akshat729/Coding-Problems/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Akshat729/Coding-Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Akshat729/Coding-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Monotonic Stack
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/Akshat729/Coding-Problems/tree/master/2029-stone-game-ix) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Akshat729/Coding-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Akshat729/Coding-Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Combinatorics
@@ -133,16 +137,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Akshat729/Coding-Problems/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Akshat729/Coding-Problems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Akshat729/Coding-Problems/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/Akshat729/Coding-Problems/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Akshat729/Coding-Problems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Akshat729/Coding-Problems/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/Akshat729/Coding-Problems/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Akshat729/Coding-Problems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Akshat729/Coding-Problems/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/Akshat729/Coding-Problems/tree/master/2029-stone-game-ix) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -167,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Akshat729/Coding-Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Akshat729/Coding-Problems/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
